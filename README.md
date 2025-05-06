@@ -1,13 +1,13 @@
 <h1 align="center" style="border-bottom: none">
-    <img alt="Devops" src="./imagens/devops-inicio.png" width="200" height="200"><br>
+    <img alt="Devops" src="./devops-inicio.png" width="200" height="200"><br>
 </h1>
 
 <h1 align="center" style="border-bottom: none">
-    DevopsEasyBr.<br>
+    👋 Seja bem-vindo!<br>
 </h1>
 
 ---
-👋 Seja bem-vindo!   <p>
+
 Você está prestes a iniciar uma jornada que pode transformar sua carreira. O mercado de trabalho atual exige profissionais ```capacitados```, que dominem as ferramentas mais modernas de automação, integração e infraestrutura em nuvem. E mais do que isso: profissionais valorizados e ```altamente remunerados```, capazes de entregar soluções ```ágeis, seguras e escaláveis```.
 
 Neste curso, você será preparado para atuar como um verdadeiro **Engenheiro DevOps** — um perfil cada vez mais procurado pelas empresas, com salários acima da média do setor de tecnologia.
