@@ -1,5 +1,5 @@
 <h1 align="center" style="border-bottom: none">
-    <img alt="Devops" src="./devops-inicio.png" width="200" height="200"><br>
+    <img alt="Devops" src="./img/robson.png" width="200" height="200"><br>
 </h1>
 
 <h1 align="center" style="border-bottom: none">
