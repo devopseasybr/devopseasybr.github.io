@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center" style="border-bottom: none">
-    👋 Seja bem-vindo!<br>
+    👋 Seja bem-vindo!!<br>
 </h1>
 
 ---
